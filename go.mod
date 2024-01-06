@@ -1,3 +1,3 @@
-module example.com/m
+module mypkg
 
 go 1.18
